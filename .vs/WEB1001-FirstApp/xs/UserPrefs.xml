@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{31D1C36F-23A4-4A0E-AADD-8551EB460BCA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WEB1001-FirstApp/Pages/Intro.cshtml">
+    <Files>
+      <File FileName="WEB1001-FirstApp/Pages/Intro.cshtml" Line="5" Column="23" />
+      <File FileName="WEB1001-FirstApp/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="WEB1001-FirstApp/Pages/Shared/_Layout.cshtml" Line="52" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WEB1001-FirstApp" expanded="True">
+            <Node name="WEB1001-FirstApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WEB1001-FirstApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
